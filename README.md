@@ -16,7 +16,7 @@ To create a trustworthy ecosystem that encourages blood donation by transparentl
 - ✅ Integrate donor leaderboard based on contribution.
 - 🪙 Convert reward points into blockchain tokens.
 - 📲 Enable mobile dApp access for seamless donor onboarding.
-- 🔐 Add admin controls for donor verification and validation.
+- 🔐 Add admin controls for donor verification and validation
 - 🌐 Geo-tag donation locations and support multiple blood banks.
 
 ## Contract Details
