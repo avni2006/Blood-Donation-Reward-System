@@ -7,7 +7,7 @@ A decentralized application (dApp) built using Soroban smart contracts to regist
 To create a trustworthy ecosystem that encourages blood donation by transparently tracking contributions and rewarding donors through a blockchain-based points system.
 
 ## Key Features
-- 🩸 **Donor Registration:** Securely add new donors with their blood group and name.
+- 🩸 **Donor Registration:** Securely add new donors with their blood group and name
 - 🧾 **Track Donations:** Keep an immutable count of each donor’s contribution.
 - 🎁 **Reward System:** Automatically reward donors with points for each donation.
 - 🔍 **View Donor Info:** Check a donor’s blood group, donation count, and reward points using their unique ID.
