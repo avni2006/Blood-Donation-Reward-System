@@ -1,7 +1,7 @@
 # Blood Donation Reward System
 
 ## Project Description
-A decentralized application (dApp) built using Soroban smart contracts to register blood donors, track their blood donations, and reward them with points for every contribution. This contract is lightweight, secure, and transparent.
+A decentralized application (dApp) built using Soroban smart contracts to register blood donors, track their blood donations, and reward them with points for every contribution. This contract is lightweight, secure, and transparent
 
 ## Project Vision
 To create a trustworthy ecosystem that encourages blood donation by transparently tracking contributions and rewarding donors through a blockchain-based points system.
@@ -22,3 +22,4 @@ To create a trustworthy ecosystem that encourages blood donation by transparentl
 ## Contract Details
 CDC5EHUHPVMDLP75HGEJIER3F52U47LBFBOI7VVIDK6UPV45JWEP6X7T
 ![alt text](<Screenshot (103).png>)
+
